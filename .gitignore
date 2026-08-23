@@ -1,0 +1,5 @@
+# Never publish private SSH handles or local backups
+id_*_sk
+*.pem
+*.key
+*.backup.*
